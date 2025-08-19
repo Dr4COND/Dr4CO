@@ -19,7 +19,7 @@ body {
 }
 .cartao {
     background-color: rgb(135, 235, 248);
-    padding: 60px;
+    padding: 150px;
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -93,4 +93,5 @@ body {
 .album.pbm h2 {
     margin-top: 10px;
 }
+
 
