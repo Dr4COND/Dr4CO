@@ -20,7 +20,7 @@ body {
 .cartao {
     background-color: rgb(80, 90, 92);
     padding: 230px;
-    border-radius: 10px;
+    border-radius: 15px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     
@@ -48,7 +48,7 @@ body {
 }
 
 .team-basket {
-    background-color: rgb(18, 191, 214);
+    background-color: rgb(48, 49, 49);
     padding: 60px;
     border-radius: 20px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -93,5 +93,4 @@ body {
 .album.pbm h2 {
     margin-top: 10px;
 }
-
 
