@@ -2,7 +2,7 @@ body {
     background-image: url('fundo_site.png');
     background-size: cover;
     font-family: Arial, sans-serif;
-    color: #ffffffa9;
+    color: #ffffff;
     margin: 0;
     min-height: 100vh;
 }
@@ -31,18 +31,18 @@ body {
 }
 
 .cartao h2 {
-    color: rgb(10, 7, 204);
+    color: rgb(255, 255, 255);
     font-size: 20px;
     margin: 0px;
 }
 .cartao p {
     font-size: 15px;
-    color: #1505ec;
+    color: #ffffff;
     margin-top: 10px;
 }
 
-.team-basket {
-    background-color: rgb(4, 160, 160);
+.team-futebol {
+    background-color: rgb(255, 255, 255);
     padding: 60px;
     border-radius: 20px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -87,5 +87,7 @@ body {
 .album.pbm h2 {
     margin-top: 10px;
 }
+
+
 
 
