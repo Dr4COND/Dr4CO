@@ -20,11 +20,10 @@ body {
     
 }
 .cartao img {
-    max-width: 100%;   
-    height: auto;      
-    border-radius: 50%;
-    object-fit: cover;
-}
+    width: 200px;      
+    height: 200px;
+    border-radius: 50%; 
+    object-fit: cover; 
 
 .cartao h1 {
 
@@ -89,6 +88,7 @@ body {
 .album.pbm h2 {
     margin-top: 10px;
 }
+
 
 
 
