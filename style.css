@@ -13,17 +13,20 @@ body {
 }
 .cartao {
     background-color: rgb(18, 18, 19);
-    padding: 20px;
+    padding: 15px;          
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
+    max-width: 280px;      
+    margin: 0 auto;        
     
-}
 .cartao img {
-    width: 200px;      
-    height: 200px;
-    border-radius: 50%; 
+    width: 150px;      
+    height: 150px;
+    border-radius: 50%;
+    display: block;
     object-fit: cover;
+    margin: 0 auto;
 }
 
 .cartao h1 {
@@ -89,6 +92,7 @@ body {
 .album.pbm h2 {
     margin-top: 10px;
 }
+
 
 
 
